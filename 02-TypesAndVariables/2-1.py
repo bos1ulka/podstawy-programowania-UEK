@@ -1,0 +1,8 @@
+print('+   dodawanie:', '7 + 4 =', 7 + 4)
+print('*   mnożenie:', '3 * 4 =', 3 * 4)
+print('**  potęgowanie:', '2 ** 3 =', 2 ** 3)
+print('/   dzielenie (wynik zawsze z przecinkiem):', '7 / 2 =', 7 / 2)
+print('//  dzielenie bez reszty:', '7 // 2 =', 7 // 2)
+print('%   reszta z dzielenia:', '7 % 2 =', 7 % 2)
+print('>   czy większe:', '7 > 5 =', 7 > 5)
+print('<=  czy mniejsze lub równe:', '5 <= 5 =', 5 <= 5)
